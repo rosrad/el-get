@@ -1,0 +1,5 @@
+(:name wacspace
+       :type github
+       :pkgname "shosti/wacspace.el"
+       :description "The wacky workspace manager for emacs.")
+

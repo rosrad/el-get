@@ -1,0 +1,5 @@
+(:name pycomplete
+       :website "https://github.com/rosrad/pycomplete"
+       :description "pycomplete"
+       :type github
+       :pkgname "rosrad/pycomplete")

@@ -1,0 +1,6 @@
+(:name matlab-mode
+       :website "https://github.com/emacsmirror/highlight-current-line"
+       :description "highlight-current-line in emacs"
+       :type github
+       :pkgname "emacsmirror/highlight-current-line")
+

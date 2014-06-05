@@ -1,9 +1,8 @@
 (:name auctex
-       :website "http://www.gnu.org/software/auctex/"
+       :website "https://github.com/giordano/auctex"
        :description "AUCTeX is an extensible package for writing and formatting TeX files in GNU Emacs and XEmacs. It supports many different TeX macro packages, including AMS-TeX, LaTeX, Texinfo, ConTeXt, and docTeX (dtx files)."
-       :type git
-       :module "auctex"
-       :url "git://git.savannah.gnu.org/auctex.git"
+       :type github
+       :pkgname "giordano/auctex"
        :build `(("./autogen.sh")
                 ("./configure"
                  "--without-texmf-dir"

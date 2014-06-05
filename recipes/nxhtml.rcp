@@ -1,5 +1,7 @@
 (:name nxhtml
-       :type emacsmirror
+       :website "https://github.com/jwiegley/nxhtml"
        :description "An addon for Emacs mainly for web development."
+       :pkgname "jwiegley/nxhtml"
+       :type github
        :build `((,el-get-emacs "-batch" "-q" "-no-site-file" "-L" "." "-l" "nxhtmlmaint.el" "-f" "nxhtmlmaint-start-byte-compilation"))
        :load "autostart.el")

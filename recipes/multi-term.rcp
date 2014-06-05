@@ -1,4 +1,6 @@
 (:name multi-term
+       :website "https://github.com/rosrad/multi-term"
        :description "A mode based on term.el, for managing multiple terminal buffers in Emacs."
-       :type emacswiki
+       :type github
+       :pkgname "rosrad/multi-term"
        :features multi-term)

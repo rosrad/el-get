@@ -1,7 +1,8 @@
 (:name python-mode
+       :website "https://github.com/emacsmirror/python-mode"
        :description "Major mode for editing Python programs"
-       :type bzr
-       :url "lp:python-mode"
+       :type github
+       :pkgname "emacsmirror/python-mode"
        :load-path ("." "test")
        :compile nil
        :prepare (progn

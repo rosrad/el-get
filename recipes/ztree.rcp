@@ -1,0 +1,7 @@
+(:name ztree
+       :website "https://github.com/rosrad/ztree"
+       :description "Ztree is a project dedicated to implementation of several text-tree applications inside Emacs"
+       :type github
+       :pkgname "rosrad/ztree")
+
+
