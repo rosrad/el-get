@@ -1,0 +1,4 @@
+(:name google-translate
+       :description "A set of Emacs functions and bindings to Google translate under point."
+       :type github
+       :pkgname "atykhonov/google-translate")

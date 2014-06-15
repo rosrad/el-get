@@ -1,0 +1,6 @@
+(:name ipython-mode
+       :description "Some configurations for ipython"
+       :type github
+       :pkgname "rosrad/ipython-mode"
+       :depends (python-mode jedi yasnippet auto-complete))
+                                        ;concurrent is in deferred package

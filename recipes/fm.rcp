@@ -1,0 +1,4 @@
+(:name fm
+       :description "follow mode for compilation/output buffer"
+       :type github
+       :pkgname "emacsmirror/fm")

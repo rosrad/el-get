@@ -1,0 +1,5 @@
+(:name youdao-dict
+       :description "Youdao online dictionary query for Emacs in Linux."
+       :type github
+       :pkgname "rosrad/youdao-dict"
+       :depends popup)

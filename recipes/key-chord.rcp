@@ -1,4 +1,6 @@
+
 (:name key-chord
        :description "Map pairs of simultaneously pressed keys to commands."
-       :type emacswiki
+       :pkgname "emacsmirror/key-chord"
+       :type github
        :features "key-chord")

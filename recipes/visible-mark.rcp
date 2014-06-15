@@ -1,0 +1,4 @@
+(:name visible-mark
+       :description "show the marks with different faces"
+       :type github
+       :pkgname "emacsmirror/visible-mark")

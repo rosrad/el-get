@@ -1,0 +1,5 @@
+(:name show-marks
+       :description "Navigate and visualize the mark-ring."
+       :type github
+       :depends fm
+       :pkgname "vapniks/show-marks")

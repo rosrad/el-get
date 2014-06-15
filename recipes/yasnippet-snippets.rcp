@@ -1,0 +1,5 @@
+(:name yasnippet
+       :website "https://github.com/rosrad/yasnippet-snippets.git"
+       :description "Snippets of YASnippet"
+       :type github
+       :pkgname "rosrad/yasnippet-snippets")

@@ -1,8 +1,8 @@
 (:name auto-complete
-       :website "https://github.com/auto-complete/auto-complete"
+       :website "https://github.com/rosrad/auto-complete"
        :description "The most intelligent auto-completion extension."
        :type github
-       :pkgname "auto-complete/auto-complete"
+       :pkgname "rosrad/auto-complete"
        :depends (popup fuzzy)
        :features auto-complete-config
        :post-init (progn
