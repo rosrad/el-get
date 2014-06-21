@@ -1,4 +1,6 @@
 (:name w3m-extension
        :description "Emacs-W3m extensions"
+       :type github
+       :pkgname "emacsmirror/w3m-extension"
        :depends (emacs-w3m basic-edit-toolkit)
-       :type emacswiki :features w3m-extension)
+       :features w3m-extension)

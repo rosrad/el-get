@@ -1,4 +1,5 @@
 (:name basic-edit-toolkit
        :description "Basic edit toolkit."
-       :type emacswiki
+       :type github
+       :pkgname "rosrad/basic-edit-toolkit"
        :features basic-edit-toolkit)
