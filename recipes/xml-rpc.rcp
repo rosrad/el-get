@@ -1,0 +1,4 @@
+(:name xml-rpc
+       :description "An elisp implementation of clientside XML-RPC"
+       :type github
+       :pkgname "rosrad/xml-rpc")
